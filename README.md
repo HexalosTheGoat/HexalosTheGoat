@@ -1,38 +1,18 @@
-## 🖥️ Setup PC
+# 💫 About Me:
+🎓 Étudiant en BUT Réseaux et Télécommunications spécialisation cyber<br><br>🎥 Créateur de contenu autour de la tech<br><br>🤝 Partenaire Ugreen, Phantum, Xraypads, Keychron, Geekom, Silkland<br><br>🚀 Fondateur de la team de passionnés de tech CYBROS
 
-### 🖥️ Ordinateur principal
 
-- **🛠️ Carte mère** : MSI MPG B550 GAMING PLUS (MS-7C56)
-- **💻 Processeur** : AMD Ryzen 5 5600
-- **🎮 Carte Graphique** : AMD Radeon RX 6800 XFX Limited QICK 319 Black
-- **🧠 Mémoire RAM** : Corsair Vengeance RGB 16 GB DDR4-3200MHz
-- **💾 Stockage** : Sabrent SB-ROCKET-NVMe4-1TB
-- **⚡ Alimentation** : MAG A650BN
-- **❄️ Refroidissement** : 
-  - Thermalright AssassinX120 SE ARGB
-  - 1x ARCTIC P12 PWM PST A-RGB
-  - 3x Cooler Master Mobius 120P ARGB
-- **📦 Boîtier** : Cooler Master MasterBox TD500 Mesh V2
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gAUCAaCKY7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hexalos_the_goat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@hexalos.iso) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hexalos_the_goat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hexalos_cybros) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hexaloscybros@gmail.com) 
 
-### 💻 PC secondaire
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hexalos_the_goat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hexalos_the_goat&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hexalos_the_goat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **💻 PC portable** : Asus TUF Gaming
-  - **🎮 Carte Graphique** : NVIDIA RTX 2060
-  - **💻 Processeur** : AMD Ryzen 7 7700
-  - **💾 Stockage** : 1 To HDD, 256 Go SSD
-  - **🧠 Mémoire RAM** : 32 Go
+---
+[![](https://komarev.com/ghpvc/?username=hexalos_the_goat&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### 🎮 Périphériques
-
-- **🖥️ Écran principal** : ASUS VG28UQL1A
-- **🖥️ Écran secondaire** : ASUS VG249Q1A
-- **🖥️ Écran tertiaire** : ASUS VA24E
-- **🎧 Casque** : Audio Technica ATH RX50
-- **🎮 Manette** : Manette Xbox Sans Fil - Mineral Camo Edition Limitée
-- **🖱️ Souris** : Razer Viper V3 Pro
-- **⌨️ Clavier** : Custom (Weikav LUCKY 65V3, SILIWORKS TYPE R, Keycaps Mizu)
-- **🎥 Stream Deck** : Elgato Stream Deck
-- **🔊 Enceintes** : Trust Tytan
-- **🖱️ Tapis de souris** : Phantum
-- **📱 iPad** : iPad 6e génération
-- **🪑 Chaise Gaming** : AKRACING Noir
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
